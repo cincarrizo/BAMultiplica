@@ -1,0 +1,95 @@
+body{
+   background-color: blueviolet; 
+}
+h1{
+  color: white;
+}
+nav{
+    margin-right:5%
+  }
+li:hover{
+      text-decoration: underline;
+  }
+nav{text-align:right;
+    color:white}
+    h2{
+      text-align: center;
+      color: white;
+    }
+#quien-soy{
+  text-align: center;
+  margin: 8%;
+}
+p{
+  font-style: italic;
+color: whitesmoke;
+}
+div{
+    display:inline-block;
+      text-align:center;
+    justify-content:space-around;
+    background-color:white;
+      border-radius:3%;
+    padding:1%;}
+img{
+      border-radius:3%
+    }
+#Foto-Eruca:hover{
+    width: 90vw;  
+    }  
+.fotos-chiquitas:hover{
+      width:35%;
+    }
+
+#Contacto {
+  margin: auto;
+  width: 400px;
+  padding: 1em;
+  border: 1px solid #CCC;
+  border-radius: 1em;
+  color: whitesmoke;
+}
+     ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+    form li + li {
+  margin-top: 1em;
+}
+    label {
+  display: inline-block;
+  width: 90px;
+  text-align: right;
+}
+input,
+textarea {
+  font: 1em sans-serif;
+  width: 300px;
+  box-sizing: border-box;
+  border: 1px solid #999;
+}
+
+input:focus,
+textarea:focus {
+  border-color: #000;
+}
+
+textarea {
+  vertical-align: top;
+  height: 5em;
+}
+
+.button {
+  padding-left: 83%;
+  list-style: none;
+}
+
+button {
+  margin-left: .5em;
+}
+footer{background-color:white;
+      text-align:center;
+    font-size:15px;
+    font-weight:bold;
+    }
